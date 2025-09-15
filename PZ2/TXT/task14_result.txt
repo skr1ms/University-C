@@ -1,0 +1,3 @@
+This is a long text without any periods It should be reforma
+tted to have exactly sixty characters per line or end with p
+eriods when possible

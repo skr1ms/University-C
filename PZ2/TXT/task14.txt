@@ -1,0 +1,1 @@
+This is a long text without any periods It should be reformatted to have exactly sixty characters per line or end with periods when possible

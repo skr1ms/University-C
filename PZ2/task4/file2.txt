@@ -1,0 +1,4 @@
+First file content
+Line 2
+Line 3
+Different content

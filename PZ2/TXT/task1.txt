@@ -1,0 +1,6 @@
+Hello world
+This is a test file
+Programming in C language
+Search for substring
+Test string with word
+Another line of text

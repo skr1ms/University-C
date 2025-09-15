@@ -1,0 +1,3 @@
+Second file content
+Different line 1
+Different line 2
